@@ -1,12 +1,12 @@
 # similar-Log
 
 ## 環境
-Python-version:
-・Python 3.10.12
-使用VM構成：
-・cpu: 2コア
-・メモリ: 3GB
-・ストレージ: 25GB
+Python-version:  
+・Python 3.10.12  
+使用VM構成：  
+・cpu: 2コア  
+・メモリ: 3GB  
+・ストレージ: 25GB  
 
 ## 概要
 任意のログデータを読み込み，条件に一致するログに対して，類似度計算を行うコード．
@@ -30,8 +30,8 @@ Python-version:
 ## 実行結果
 
 ![image](https://github.com/user-attachments/assets/ce2cf939-c970-426e-9971-02b56e80b802)
-・ 
-・
-・
+・   
+・  
+・  
 ![image](https://github.com/user-attachments/assets/651573f7-b923-47e8-986d-87c80729865d)
 
