@@ -30,8 +30,14 @@ Python-version:
 ## 実行結果
 
 ![image](https://github.com/user-attachments/assets/ce2cf939-c970-426e-9971-02b56e80b802)
-{: align="center"}・   
-{: align="center"}・  
-{: align="center"}・  
+<p align="center">
+・  
+</p>   
+<p align="center">
+・  
+</p>  
+<p align="center">
+・  
+</p>  
 ![image](https://github.com/user-attachments/assets/651573f7-b923-47e8-986d-87c80729865d)
 
