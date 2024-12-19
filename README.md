@@ -15,12 +15,15 @@
 （"timestamp", "objectID", "http_version", "method", "status"）
 また，serverに関しては，URLのパス部分を抽出して比較を行う．
 この各フィールドを比較し類似度を算出する．
-ファイルの読み込みでは，最初の10000行に対して処理を行っている．
-その中で，表示件数が1000件に達したら処理を終了する，
+ファイルの読み込みでは，最初の1000行に対して処理を行っている．
 出力として，0.1ずつの範囲で何件の類似しているログが何件かを表示する．
 
 
 ## 実行結果
 
+![image](https://github.com/user-attachments/assets/ce2cf939-c970-426e-9971-02b56e80b802)
+・ 
+・
+・
+![image](https://github.com/user-attachments/assets/651573f7-b923-47e8-986d-87c80729865d)
 
-![image](https://github.com/user-attachments/assets/766564bc-e6af-476f-bcaa-fc9bf4fd6ead)
